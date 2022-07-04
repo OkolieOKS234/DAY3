@@ -1,0 +1,6 @@
+1.Create a folder for this and create 2 js files.....>
+studentGrades.js and addNewStudents.js
+Create an array of grades that grades a student(studentGrades.js), if the student is not in
+the array then add the name and print in the textarea
+
+MY ASSIGNED TASK ABOVE
